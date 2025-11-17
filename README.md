@@ -1,1 +1,2 @@
-# api-biblia
+- ** Api que peguei de um colaborador daqui do github, para utilizar no meu projeto!
+Esse projeto tinha que ter uma api em grande escala ai por esse motivo busquei e a minha api tinha pouquissimos versiculos apena 300 linhas e isso nao era o suficiente, agora preciso fazer o tratamento dessa api e reorganizá-la pois a minha consiste em o versiculo vim a partir de uma palavra para o usuario que estão passando por dias dificeis e até por dias faceis, estou aqui para ajudar o maximo aqueles que ainda não tenham tanta aproximidade com a biblia como eu mesmo. Foi uma das coisas que analisei e como ser humano pensei se isso acontece comigo, pode acontecer com mais pessoas
